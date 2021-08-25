@@ -10,4 +10,5 @@ If you end your command with an ```h```, the roll will be considered a hit roll.
 
 ### TODO
 I. Validate inputs. If you try to use dices with a value of 0 or negative, it will cause an error.
+
 II. Include math operations on rolls. (Add and subtract only.)
